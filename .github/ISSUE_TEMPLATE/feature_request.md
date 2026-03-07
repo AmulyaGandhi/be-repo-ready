@@ -1,17 +1,19 @@
-# Feature Request
-
+---
 name: Feature request
 about: Suggest a new feature for this project
 title: "[Feature]: "
 labels: enhancement
 assignees: ""
-
+---
 
 ## Summary
-Provide a short summary of the feature.
+Describe the feature you want.
 
-## Problem Statement
-Describe the problem this feature solves.
+## Problem
+What problem does this solve?
 
 ## Proposed Solution
-Explain the feature you'd like to see.
+Explain the feature.
+
+## Additional Context
+Add screenshots or examples if needed.
